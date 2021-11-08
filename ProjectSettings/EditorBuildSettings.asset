@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SceneSwitcher.unity
+    guid: d70003d36b38dff00a23976efb21c43a
+  - enabled: 1
+    path: Assets/Scenes/TestingScene.unity
+    guid: 8a03fb75043db381db6b2855f27c244c
+  - enabled: 1
+    path: Assets/Scenes/TrainGrabCloth2.unity
+    guid: 09ac6c4eeae502bfb8e69abf3a9be8ec
+  - enabled: 1
+    path: Assets/Scenes/TrainFold1.unity
+    guid: 780b0318c2340c5d6a3d6574b1d64a37
+  - enabled: 1
+    path: Assets/Scenes/TrainFold2.unity
+    guid: 06f54177d8baa10ab8592215106eeb10
+  - enabled: 1
+    path: Assets/Scenes/TrainGrabCloth1.unity
+    guid: 9065484d7d9c7b1a7ae9c74e7c2e4021
+  - enabled: 1
+    path: Assets/Scenes/SoftBody/BigCloth.unity
+    guid: 7d8ccdd54e2d7db789687646a77937c1
+  - enabled: 1
+    path: Assets/Scenes/SoftBody/MeshCloth.unity
+    guid: ee1d4091ad9286a4383b58da1db8e14a
+  - enabled: 1
+    path: Assets/Scenes/SoftBody/TableCloth.unity
+    guid: 8e8dde20aeda46f47b610b5d46f67583
+  m_configObjects: {}
